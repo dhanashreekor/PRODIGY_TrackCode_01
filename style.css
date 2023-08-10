@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 90vw;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft{
+    width: 75%;
+    height: 155px;
+    padding: 12px 0;
+}
+
+.topright{
+    width: 75%;
+    height: 155px;
+    
+}
+
+.section1{
+    max-height: 90vh;
+}
+
+.section1 h1{
+    font-size: 2rem;
+    color: black;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.dumbellimg{
+    width: 250px;
+
+}
+
+.gymimg{
+    width: 356px;
+}
+
+
+footer{
+    padding: 20px;
+    text-align: center;
+}
+
